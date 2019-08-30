@@ -1,0 +1,225 @@
+.container{
+  border: 1px solid blue;
+  position: relative;
+  width: 90%;
+  margin-left: 5%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+  border: 1px solid red;
+  position: relative;
+  height: 5vw;
+  width: 40%;
+  margin: 2.5%;
+  background: red;
+  font-size: 1.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+[data-position="0"]{
+  order: 1;
+}
+
+[data-position="!"]{
+  order: 2;
+}
+
+[data-position="2"]{
+  order: 3;
+}
+
+[data-position="3"]{
+  order: 4;
+}
+
+[data-position="4"]{
+  order: 5;
+}
+
+[data-position="5"]{
+  order: 6;
+}
+
+[data-position="6"]{
+  order: 7;
+}
+
+[data-position="7"]{
+  order: 8;
+}
+
+[data-position="8"]{
+  order: 9;
+}
+
+[data-position="9"]{
+  order: 10;
+}
+
+[data-position="!0"]{
+  order: 11;
+}
+
+[data-position="!!"]{
+  order: 12;
+}
+
+[data-position="!2"]{
+  order: 13;
+}
+
+[data-position="!3"]{
+  order: 14;
+}
+
+[data-position="!4"]{
+  order: 15;
+}
+
+[data-position="!5"]{
+  order: 16;
+}
+
+[data-position="!6"]{
+  order: 17;
+}
+
+[data-position="!7"]{
+  order: 18;
+}
+
+[data-position="!8"]{
+  order: 19;
+}
+
+[data-position="!9"]{
+  order: 20;
+}
+
+[data-position="20"]{
+  order: 21;
+}
+
+[data-position="2!"]{
+  order: 22;
+}
+
+[data-position="22"]{
+  order: 23;
+}
+
+[data-position="23"]{
+  order: 24;
+}
+
+[data-position="24"]{
+  order: 25;
+}
+
+[data-position="25"]{
+  order: 26;
+}
+
+[data-position="26"]{
+  order: 27;
+}
+
+[data-position="27"]{
+  order: 28;
+}
+
+[data-position="28"]{
+  order: 29;
+}
+
+[data-position="29"]{
+  order: 30;
+}
+
+[data-position="30"]{
+  order: 31;
+}
+
+[data-position="3!"]{
+  order: 32;
+}
+
+[data-position="32"]{
+  order: 33;
+}
+
+[data-position="33"]{
+  order: 34;
+}
+
+[data-position="34"]{
+  order: 35;
+}
+
+[data-position="35"]{
+  order: 36;
+}
+
+[data-position="36"]{
+  order: 37;
+}
+
+[data-position="37"]{
+  order: 38;
+}
+
+[data-position="38"]{
+  order: 39;
+}
+
+[data-position="39"]{
+  order: 40;
+}
+
+[data-position="40"]{
+  order: 41;
+}
+
+[data-position="4!"]{
+  order: 42;
+}
+
+[data-position="42"]{
+  order: 43;
+}
+
+[data-position="43"]{
+  order: 44;
+}
+
+[data-position="44"]{
+  order: 45;
+}
+
+[data-position="45"]{
+  order: 46;
+}
+
+[data-position="46"]{
+  order: 47;
+}
+
+[data-position="47"]{
+  order: 48;
+}
+
+[data-position="48"]{
+  order: 49;
+}
+
+[data-position="49"]{
+  order: 50;
+}
+
+[data-position="50"]{
+  order: 51;
+}
